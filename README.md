@@ -51,7 +51,7 @@
 ### ⚡ GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=eimmig&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eimmig&hide=TeX&layout=compact&theme=radical)
-[![Eimmig wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Eimmig wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 24/11/2021 🕵️ <br></small></p> -->
