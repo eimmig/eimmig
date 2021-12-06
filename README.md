@@ -1,11 +1,9 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Eduardo Immig</h1>
-<!-- <p align = "justify">Web Developer, Javascript and Node fan -->
-<!--  , Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p> -->
 
 
 - :rocket: I’m currently working on [![imagem](https://user-images.githubusercontent.com/72169208/133176845-0d31c976-2aba-4702-b873-37e728067a8d.png)](https://bitzsoftwares.com.br/)
 - 🔭 I am currently about the Computer engineering course at UTFPR University Pato Branco - PR!
-- 🌱 I’m currently learning  PHP, Vue.js and C
+- 🌱 I’m currently learning  PHP, JS and C
 
 
 
