@@ -53,5 +53,6 @@
 
  
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 24/11/2021 🕵️ <br></small></p> -->
+[![wakatime](https://wakatime.com/badge/user/2ed6b293-0d89-4c38-8964-2655a91bd86b.svg)](https://wakatime.com/@2ed6b293-0d89-4c38-8964-2655a91bd86b)
 <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=EduardoImmig" alt="dexternatan" /></p>
 <!-- <p align="left"><small>Obrigado e volte sempre 😄</small></p> --
