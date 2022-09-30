@@ -48,7 +48,26 @@
 <!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
  -->
+ 
+- uses: Platane/snk@v2
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.eimmig }}
 
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b9
 
 ### ⚡ GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=eimmig&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
@@ -60,3 +79,4 @@
 [![wakatime](https://wakatime.com/badge/user/2ed6b293-0d89-4c38-8964-2655a91bd86b.svg)](https://wakatime.com/@2ed6b293-0d89-4c38-8964-2655a91bd86b)
 <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=EduardoImmig" alt="dexternatan" /></p>
 <!-- <p align="left"><small>Obrigado e volte sempre 😄</small></p> --
+
