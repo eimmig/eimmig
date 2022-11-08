@@ -3,7 +3,7 @@
 
 - :rocket: I’m currently working on [![imagem](https://user-images.githubusercontent.com/72169208/133176845-0d31c976-2aba-4702-b873-37e728067a8d.png)](https://bitzsoftwares.com.br/)
 - 🔭 I am currently about the Computer engineering course at UTFPR University Pato Branco - PR!
-- 🌱 I’m currently learning  PHP, JS and C
+- 🌱 I’m currently learning  PHP and Java.
 
 
 
@@ -53,10 +53,10 @@
 ### ⚡ GitHub Stats
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eimmig&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></div>
-
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimmig&hide=TeX&theme=radical&layout=compact"/></div>
-
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" /></div>
+
+<!-- div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimmig&hide=TeX&theme=radical&layout=compact"/></div> -->
+
 
  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21yf6jeehx6xktpb7nxlgujpy&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
  
