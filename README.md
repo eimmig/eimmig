@@ -55,7 +55,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eimmig&hide=TeX&theme=radical&layout=compact)
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
 
- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12162334144&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
+ <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21yf6jeehx6xktpb7nxlgujpy&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
  
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 24/11/2021 🕵️ <br></small></p> -->
 [![wakatime](https://wakatime.com/badge/user/2ed6b293-0d89-4c38-8964-2655a91bd86b.svg)](https://wakatime.com/@2ed6b293-0d89-4c38-8964-2655a91bd86b)
