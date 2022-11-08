@@ -51,9 +51,12 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 -->
 ### ⚡ GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=eimmig&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eimmig&hide=TeX&theme=radical&layout=compact)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eimmig&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></div>
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimmig&hide=TeX&theme=radical&layout=compact"/></div>
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" /></div>
 
  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21yf6jeehx6xktpb7nxlgujpy&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
  
