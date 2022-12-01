@@ -1,7 +1,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Eduardo</h1>
 
 
-- :rocket: I’m currently working on [![imagem](https://user-images.githubusercontent.com/72169208/133176845-0d31c976-2aba-4702-b873-37e728067a8d.png)](https://bitzsoftwares.com.br/)
+- :rocket: I’m currently working on [![imagem](https://user-images.githubusercontent.com/91758475/205046944-1171ba77-518e-4a9b-8e10-9a9faeede521.png)](https://bitzsoftwares.com.br/)
 - 🔭 I am currently about the Computer engineering course at UTFPR University Pato Branco - PR!
 - 🌱 I’m currently learning  PHP and Java.
 
@@ -63,5 +63,5 @@
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 24/11/2021 🕵️ <br></small></p> -->
 [![wakatime](https://wakatime.com/badge/user/2ed6b293-0d89-4c38-8964-2655a91bd86b.svg)](https://wakatime.com/@2ed6b293-0d89-4c38-8964-2655a91bd86b)
 <p align="left"><p align="left"><img src="https://komarev.com/ghpvc/?username=EduardoImmig" alt="dexternatan" /></p>
-<!-- <p align="left"><small>Obrigado e volte sempre 😄</small></p> --
+<!-- <p align="left"><small>Obrigado e volte sempre 😄</small></p> --!
 
