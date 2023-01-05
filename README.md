@@ -1,8 +1,8 @@
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Eduardo</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Eduardo</h1>
 
 
 - :rocket: I’m currently working on [![imagem](https://user-images.githubusercontent.com/91758475/205046944-1171ba77-518e-4a9b-8e10-9a9faeede521.png)](https://bitzsoftwares.com.br/)
-- 🔭 I am currently about the Computer engineering course at UTFPR University Pato Branco - PR!
+- 🔭 I'm currently at the Computer Engineering course at UTFPR University Pato Branco - PR!
 - 🌱 I’m currently learning  PHP and Java.
 
 
