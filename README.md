@@ -55,8 +55,12 @@
 -->
 ### ⚡ GitHub Stats
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eimmig&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></div>
+<!--<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eimmig&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></div> -->
+<div align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eimmig&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</div> 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" /></div>
+
 
 <!-- div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimmig&hide=TeX&theme=radical&layout=compact"/></div> -->
 
