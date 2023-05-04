@@ -59,7 +59,7 @@
 <div align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eimmig&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </div> 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" /></div>
+
 <div>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eimmig&theme=darkhub" alt="eimmig" /></a> </p>
  </div>
