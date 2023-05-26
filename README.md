@@ -17,6 +17,7 @@
 ## 🚀 Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,9 +38,9 @@
 
 ## 💻 IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://camo.githubusercontent.com/99731e54090b73c687a70d0f60399fa5f9e1a64580a06df6ebaf1daff6c38c64/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e74656c6c694a2b4944454126636f6c6f723d303030303030266c6f676f3d496e74656c6c694a2b49444541266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 <!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
