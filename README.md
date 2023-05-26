@@ -7,9 +7,9 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo.Immig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/Eduardo-Immig-27543a187/)](https://www.linkedin.com/in/eduardoimmig/)
-[![Instagram Badge](https://img.shields.io/badge/-Eduardo.Immig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardo.immig/?hl=pt-br)](https://instagram.com/eduardo.immig)
-[![Gmail Badge](https://img.shields.io/badge/-Eduardo.Immig-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo-immig@hotmail.com)](mailto:eduardo-immig@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/Eduardo-Immig-27543a187/)](https://www.linkedin.com/in/eduardoimmig/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardo.immig/?hl=pt-br)](https://instagram.com/eduardo.immig)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo-immig@hotmail.com)](mailto:eduardo-immig@hotmail.com)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
 
 
