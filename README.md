@@ -7,11 +7,9 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo.Immig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/Eduardo-Immig-27543a187/)](https://www.linkedin.com/in/eduardoimmig/)
-[![Instagram Badge](https://img.shields.io/badge/-Eduardo.Immig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardo.immig/?hl=pt-br)](https://instagram.com/eduardo.immig)
-[![Gmail Badge](https://img.shields.io/badge/-Eduardo.Immig-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo-immig@hotmail.com)](mailto:eduardo-immig@hotmail.com)
-<!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/Eduardo-Immig-27543a187/)](https://www.linkedin.com/in/eduardoimmig/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardo.immig/?hl=pt-br)](https://instagram.com/eduardo.immig)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo-immig@hotmail.com)](mailto:eduardo-immig@hotmail.com)
 
 
 ## 🚀 Technologies
@@ -44,33 +42,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![InteliJ](https://camo.githubusercontent.com/99731e54090b73c687a70d0f60399fa5f9e1a64580a06df6ebaf1daff6c38c64/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e74656c6c694a2b4944454126636f6c6f723d303030303030266c6f676f3d496e74656c6c694a2b49444541266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
-<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql) -->
-<!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)-->
-<!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
--->
 ### ⚡ GitHub Stats
-
-<!--<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eimmig&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/></div> -->
 <div align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eimmig&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </div> 
-
-<div>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eimmig&theme=darkhub" alt="eimmig" /></a> </p>
- </div>
-
-<!-- div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimmig&hide=TeX&theme=radical&layout=compact"/></div> -->
-
 
  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21yf6jeehx6xktpb7nxlgujpy&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
  
