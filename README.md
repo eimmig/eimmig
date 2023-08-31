@@ -42,7 +42,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![InteliJ](https://camo.githubusercontent.com/99731e54090b73c687a70d0f60399fa5f9e1a64580a06df6ebaf1daff6c38c64/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e74656c6c694a2b4944454126636f6c6f723d303030303030266c6f676f3d496e74656c6c694a2b49444541266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
-### ⚡ GitHub Stats
+## ⚡ WakaTime Stats
+<div align = "center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
+</div>
+
+## ⚡ GitHub Stats
 <div align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eimmig&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </div> 
