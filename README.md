@@ -1,7 +1,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Eduardo</h1>
 
 
-- :rocket: I’m currently working on  <a href="https://bitzsoftwares.com.br/" target="_blank"> Bitz Softwares </a>
+- :rocket: I’m currently working on EECO Sistemas
 - 🔭 I'm currently at the Computer Engineering course at UTFPR University Pato Branco - PR!
 - 🌱 I’m currently learning React and Java.
 
