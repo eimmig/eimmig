@@ -37,8 +37,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ## 🛠 Tools
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
