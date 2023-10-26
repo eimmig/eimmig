@@ -3,7 +3,7 @@
 
 - :rocket: I’m currently working on EECO Sistemas
 - 🔭 I'm currently at the Computer Engineering course at UTFPR University Pato Branco - PR!
-- 🌱 I’m currently learning React and Java.
+- 🌱 I’m currently learning Kotlin and Docker 🐋
 
 
 
