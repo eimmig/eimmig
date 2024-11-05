@@ -3,7 +3,7 @@
 
 - :rocket: I’m currently working on Senior Sistemas
 - 🔭 I'm currently at the Systems Analysis and Development course at UTFPR - Federal University of Technology, Pato Branco campus - PR!
-- 🌱 I’m currently learning Kotlin and Docker 🐋
+- 🌱 I’m currently learning AWS and Angular
 
 
 
