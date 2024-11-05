@@ -1,8 +1,8 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Eduardo</h1>
 
 
-- :rocket: I’m currently working on EECO Sistemas
-- 🔭 I'm currently at the Computer Engineering course at UTFPR University Pato Branco - PR!
+- :rocket: I’m currently working on Senior Sistemas
+- 🔭 I'm currently at the Systems Analysis and Development course at UTFPR - Federal University of Technology, Pato Branco campus - PR!
 - 🌱 I’m currently learning Kotlin and Docker 🐋
 
 
