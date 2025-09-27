@@ -68,5 +68,8 @@ I'm a Full Stack Web Developer with a passion for building robust and efficient 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eimmig&show_icons=true&theme=radical&layout=compact" alt="WakaTime Stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eimmig&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak Stats"/>
+  <br/>
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21yf6jeehx6xktpb7nxlgujpy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduardoImmig&label=Profile%20views&color=blue&style=flat" alt="Profile views"/> </p>
